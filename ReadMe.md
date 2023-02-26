@@ -35,15 +35,11 @@
 <br>
 
 #### Some Project I made
-- 🏦 [**Banking Management System(OOP-JAVA)**](https://github.com/MdReyadHossain/Banking_System-Console_Application "Banking Management System(OOP-JAVA)") - *Development and Idea* <br>OOP based raw code system and manage individual action with the system interact by own self.
-*Completed - 2020*
-- 🚚**Transport Management System(Software UI/UX design and Plan)** - *Project design plan*<br>Online transport management android-based application where user can easily find different type of transport to reach his/ her destination. 
-*Completed - 2021*
+- 🏦 [**Banking Management System(OOP-JAVA)**](https://github.com/MdReyadHossain/Banking_System-Console_Application "Banking Management System(OOP-JAVA)") - *Development and Idea* <br>OOP based raw code system and manage individual action with the system interact by own self.<br>*Completed - 2020*
+- 🚚**Transport Management System(Software UI/UX design and Plan)** - *Project design plan*<br>Online transport management android-based application where user can easily find different type of transport to reach his/ her destination.<br>*Completed - 2021*
 
-- 📖[**EZ Learning- Web application**](https://github.com/MdReyadHossain/EZ_Learning "**EZ Learning- Web application**") – *Admin Panel Develop and Project design*<br>Online based educational software that serves as a platform for an educational institution to conduct online academic activities.
-*Completed - 2022*
-- <img src="https://logos-download.com/wp-content/uploads/2022/01/BKash_Logo_icon-700x662.png" height=20>[**Bkash- Desktop application(OOP-C# WPF application)**](https://github.com/MdReyadHossain/bKash_Windows_Application "**Bkash- Desktop application(OOP-C# WPF application)**") – *Development and Project design*<br>Financial service software where can money transaction P2P.
-*Completed - 2022 *
+- 📖[**EZ Learning- Web application**](https://github.com/MdReyadHossain/EZ_Learning "**EZ Learning- Web application**") – *Admin Panel Develop and Project design*<br>Online based educational software that serves as a platform for an educational institution to conduct online academic activities.<br>*Completed - 2022*
+- <img src="https://logos-download.com/wp-content/uploads/2022/01/BKash_Logo_icon-700x662.png" height=20>[**Bkash- Desktop application(OOP-C# WPF application)**](https://github.com/MdReyadHossain/bKash_Windows_Application "**Bkash- Desktop application(OOP-C# WPF application)**") – *Development and Project design*<br>Financial service software where can money transaction P2P.<br>*Completed - 2022*
 <br>
 
 #### Interested about in
