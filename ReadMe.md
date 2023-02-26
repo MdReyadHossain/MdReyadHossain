@@ -1,10 +1,7 @@
 ### It's Me Reyad 👋!
 
-|  Email: reyadhosen@gmail.com | Website: http://reyad.ezyro.com/   |
-| :------------ | :------------ |
-|  Phone: +8801956-394373 | GitHub: https://github.com/MdReyadHossain  |
-|  Address: Dhaka-1229, Dhaka, Bangladesh |  Linkedin: https://www.linkedin.com/in/reyad-hossain-ba87871ba/ |
-
+<br>
+--------
 <br>
 
 #### Summary
@@ -68,3 +65,8 @@ Financial service software where can money transaction P2P.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdReyadHossain"/>
 </p>
+
+| :fa-envelope: Email: reyadhosen@gmail.com | :fa-globe: Website: http://reyad.ezyro.com/   |
+| :------------ | :------------ |
+|  :fa-twitter: Twitter: https://twitter.com/ReyadSteel | :fa-github-square: GitHub: https://github.com/MdReyadHossain  |
+| :fa-building: Address: Dhaka-1229, Dhaka, Bangladesh | :fa-linkedin-square: Linkedin: https://www.linkedin.com/in/reyad-hossain-ba87871ba/ |
