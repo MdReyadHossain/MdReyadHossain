@@ -14,7 +14,7 @@
 #### What I'm doing?
 - 🏢 Studying at [American International University - Bangladesh (AIUB)](http://https://www.aiub.edu/ "American International University - Bangladesh (AIUB)")
 - 👨‍💻 Writing **`ASP .NET` `NESTJS` `NEXTJS` `JavaScript`**.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/reyad-hossain-ba87871ba/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> [**LinkedIn**](https://www.linkedin.com/in/reyad-hossain-ba87871ba/ "LinkedIn")<!--[LinkedIn](https://www.linkedin.com/in/reyad-hossain-ba87871ba/)--> and [:fa-simplybuilt:](https://discord.gg/AuNMSCQK ":fa-simplybuilt:") [**Discord**](https://discord.gg/AuNMSCQK "Discord").
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/reyad-hossain-ba87871ba/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> [**LinkedIn**](https://www.linkedin.com/in/reyad-hossain-ba87871ba/ "LinkedIn")<!--[LinkedIn](https://www.linkedin.com/in/reyad-hossain-ba87871ba/)--> and [:fa-simplybuilt:](https://discord.gg/sdPsab2 ":fa-simplybuilt:") [**Discord**](https://discord.gg/sdPsab2 "Discord").
 - 📚 Currently working on a research **Machine Learning** and **Image Processing**.
 - 🔬 Building [**GraspWay**](https://github.com/MdReyadHossain/GraspWay "**GraspWay**") as Online Educational projects and [**E-Commerce**](https://github.com/MdReyadHossain?tab=repositories "**E-Commerce**") ASP .NET project.
 <br>
