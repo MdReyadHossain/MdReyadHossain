@@ -1,4 +1,15 @@
+/* https://fonts.google.com/share?selection.family=Alegreya%7CMulish:wght@700%7CRajdhani:wght@500%7CUrbanist:wght@200;400%7CWork%20Sans:wght@500 */
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Mulish:wght@700&family=Rajdhani:wght@500&family=Urbanist:wght@200;400&family=Work+Sans:wght@500&display=swap');
+
+/* 
+
+font-family: 'Alegreya', serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Rajdhani', sans-serif;
+font-family: 'Urbanist', sans-serif;
+font-family: 'Work Sans', sans-serif; 
+
+*/
 
 * {
     margin: 0;
@@ -195,7 +206,7 @@ a#scroll-down:hover {
 
 h2 {
     text-align: center;
-    font-family: Trebuchet MS;
+    font-family: 'Urbanist', sans-serif;
     font-size: 2.1em;
     padding: 50px 0 20px 0;
     color: #222;
@@ -667,7 +678,7 @@ meter::-webkit-meter-bar {
 }
 
 .get-in-touch > span {
-    font-family: Tahoma;
+    font-family: 'Mulish', sans-serif;
     font-weight: bold;
     color: #2b6777;
 }
@@ -680,7 +691,7 @@ meter::-webkit-meter-bar {
 }
 
 .get-in-touch > a {
-    font-family: Palatino Linotype;
+    font-family: 'Urbanist', sans-serif;
     color: #404040;
     margin: 10px;
     text-decoration: none;
@@ -697,7 +708,8 @@ meter::-webkit-meter-bar {
     padding: 10px;
     border: 1px solid #2b6777;
     display: inline-block;
-    font-family: Palatino Linotype;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 15px;
     background-color: #e0fcff;
 }
 
@@ -708,7 +720,8 @@ meter::-webkit-meter-bar {
     border: 1px solid #2b6777;
     padding: 10px;
     display: inline-block;
-    font-family: Palatino Linotype;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 15px;
     background-color: #e0fcff;
 }
 
@@ -743,13 +756,14 @@ meter::-webkit-meter-bar {
 }
 
 .get-in-touch > form > span {
-    font-family: Palatino Linotype;
+    font-family: 'Urbanist', sans-serif;
     font-size: 15px;
     color: red;
 }
 
 .get-in-touch > form > #msg {
-    font-family: Palatino Linotype;
+    font-weight: bold;
+    font-family: 'Urbanist', sans-serif;
     font-size: 15px;
     color: rgb(67, 214, 67);
 }
@@ -807,21 +821,26 @@ meter::-webkit-meter-bar {
 .about > p {
     padding: 0 10px;
     text-align: center;
-    font-family: Palatino Linotype;
+    font-family: 'Urbanist', sans-serif;
     color: #ffffff;
 }
 
 .about > i {
     padding: 0 10px;
-    font-family: Palatino Linotype;
+    font-family: 'Urbanist', sans-serif;
     color: #ffffff;
     font-size: 20px;
 }
 
 .about > i > a {
-    font-family: Palatino Linotype;
+    font-family: 'Urbanist', sans-serif;
     color: #76eff8;
     /* text-decoration: none; */
+}
+
+.about > i > a:hover {
+    color: #bff4f8;
+    text-decoration: none;
 }
 
 .about > a {
