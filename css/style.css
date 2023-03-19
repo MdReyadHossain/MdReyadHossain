@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Mulish:wght@700&family=Rajdhani:wght@500&family=Urbanist:wght@200;400&family=Work+Sans:wght@500&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -203,7 +205,7 @@ h2 {
 }
 
 .des-academic {
-    font-family: Palatino Linotype;
+    font-family: 'Rajdhani', sans-serif;
     text-align: center;
 }
 
@@ -243,7 +245,7 @@ h2 {
 
 .content > h3 > a {
     font-size: 20px;
-    font-family: Tahoma;
+    font-family: 'Work Sans', sans-serif;
     color: #2b6777;
 }
 
@@ -257,7 +259,7 @@ h2 {
 }
 
 .content > p {
-    font-family: Perpetua;
+    font-family: 'Rajdhani', sans-serif;
     font-size: 18px;
     color: #404040;
 }
@@ -299,26 +301,26 @@ h2 {
 
 .skills > .code-skills > h3 {
     font-size: 20px;
-    font-family: Tahoma;
+    font-family: 'Work Sans', sans-serif;
     color: #f2f2f2;
     padding: 10px 0;
 }
 
 .skills > .software-skills > h3 {
     font-size: 20px;
-    font-family: Tahoma;
+    font-family: 'Work Sans', sans-serif;
     color: #f2f2f2;
     padding: 10px 0;
 }
 
 .code-skills > span {
-    font-family: Century Gothic;
+    font-family: 'Urbanist', sans-serif;
     font-weight: bold;
     color: #f2f2f2;
 }
 
 .software-skills > span {
-    font-family: Century Gothic;
+    font-family: 'Urbanist', sans-serif;
     font-weight: bold;
     color: #f2f2f2;
 }
@@ -528,13 +530,12 @@ meter::-webkit-meter-bar {
 #liketodo > p {
     padding: 0 10px;
     text-align: center;
-    font-family: Palatino Linotype;
+    font-family: 'Rajdhani', sans-serif;
 }
 
 .interest {
     height: auto;
     padding: 30px 60px;
-    font-family: Palatino Linotype;
     text-align: justify;
     display: grid;
     grid-template-columns: auto auto;
@@ -551,10 +552,14 @@ meter::-webkit-meter-bar {
 
 .interest > div > p {
     font-size: 20px;
-    font-family: Palatino Linotype;
+    font-family: 'Rajdhani', sans-serif;
     padding: 20px;
     text-align: center;
     color: rgb(255, 255, 255);   
+}
+
+.interest > div > p:hover {
+    color: rgb(0, 0, 0);   
 }
 
 .interest > div > div {
@@ -563,7 +568,7 @@ meter::-webkit-meter-bar {
 }
 
 .interest > div > div > span {
-    font-family: Trebuchet MS;
+    font-family: 'Mulish', sans-serif;
     font-size: 1.8em;
     padding: 20px 0 20px 0;
     color: rgb(255, 255, 255);
@@ -603,7 +608,7 @@ meter::-webkit-meter-bar {
 
 .deep-inside > p {
     color: #ffffff;
-    font-family: Palatino Linotype;
+    font-family: 'Rajdhani', sans-serif;
     text-shadow: 2px 2px 8px #404040;
     margin: 40px 0px;
     text-align: center;
@@ -620,7 +625,7 @@ meter::-webkit-meter-bar {
 
 .lines > a {
     padding: 10px;
-    font-family: Century Gothic;
+    font-family: 'Mulish', sans-serif;
     font-weight: bold;
     text-shadow: 2px 2px 8px #404040;
     font-size: 20px;
@@ -791,6 +796,11 @@ meter::-webkit-meter-bar {
 }
 
 .about > h2 {
+    color: #ffffff;
+}
+
+.about > h2 > #media {
+    text-decoration: none;
     color: #ffffff;
 }
 
