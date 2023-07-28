@@ -21,13 +21,13 @@
 
 #### My skills looks like
 - 🖥**Front-end:**
-	- **Languages**: `HTML5` `CSS3` `Javascript` `NextJS`
-	- **Frameworks**: ASP .NET MVC • WPF • Bootstrap
+	- **Languages**: `HTML5` `CSS3` `Javascript` `ES6+`
+	- **Frameworks**: ReactJS • NextJS • ASP .NET MVC • Bootstrap
 	- **UI tookits**: Figma • JustinMind • Adobe XD
 - 🗄️ **Back-end:**
-	- **Languages**: `C#` `PHP` `NestJS`
-	- **Frameworks**: ASP .NET WEB API
-	- **Database**: PHPMyAdmin • MSSQL • PostgreSQL
+	- **Languages**: `C#` `PHP`
+	- **Frameworks**: NodeJS • NestJS • ASP .NET WEB API
+	- **Database**: MySQL • MongoDB • MSSQL • PostgreSQL
 - 📜**Languages:** `C++` `Python`
 - 🎡**Software Tools:** Postman • Selenium • Xampp • GitHub
 - **🏗️ Code editors:**
