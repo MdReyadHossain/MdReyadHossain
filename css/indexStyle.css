@@ -344,6 +344,7 @@ meter::-webkit-meter-bar {
 
 /* skills design start */
 
+/* code skills */
 #html5 {
     height: 2em;
     width: 80%; 
@@ -374,7 +375,7 @@ meter::-webkit-meter-bar {
 }
 
 #css3::after {
-    content: '60%';
+    content: '70%';
     position: absolute;
     top: -50%;
     right: 0;
@@ -397,7 +398,7 @@ meter::-webkit-meter-bar {
 }
 
 #js::after {
-    content: '55%';
+    content: '70%';
     position: absolute;
     top: -50%;
     right: 0;
@@ -413,14 +414,14 @@ meter::-webkit-meter-bar {
     background-color: #888830;
 }
 
-#php {
+#ts {
     height: 2em;
     width: 80%; 
     position: relative;  
 }
 
-#php::after {
-    content: '70%';
+#ts::after {
+    content: '55%';
     position: absolute;
     top: -50%;
     right: 0;
@@ -428,11 +429,11 @@ meter::-webkit-meter-bar {
     color: #f2f2f2;
 }
 
-#php::-webkit-meter-optimum-value {
+#ts::-webkit-meter-optimum-value {
     background-color: #2952a3;
 }
 
-#php::-webkit-meter-optimum-value:hover {
+#ts::-webkit-meter-optimum-value:hover {
     background-color: #80a3eb;
 }
 
@@ -459,6 +460,172 @@ meter::-webkit-meter-bar {
     background-color: #94bfff;
 }
 
+/* database */
+
+#msql {
+    height: 2em;
+    width: 80%; 
+    position: relative;  
+}
+
+#msql::after {
+    content: '70%';
+    position: absolute;
+    top: -50%;
+    right: 0;
+    font-family: Oswald;
+    color: #f2f2f2;
+}
+
+#msql::-webkit-meter-optimum-value {
+    background-color: #0066ff;
+}
+
+#msql::-webkit-meter-optimum-value:hover {
+    background-color: #8cbaff;
+}
+
+#pgs {
+    height: 2em;
+    width: 80%; 
+    position: relative;  
+}
+
+#pgs::after {
+    content: '80%';
+    position: absolute;
+    top: -50%;
+    right: 0;
+    font-family: Oswald;
+    color: #f2f2f2;
+}
+
+#pgs::-webkit-meter-optimum-value {
+    background-color: #ffff00;
+}
+
+#pgs::-webkit-meter-optimum-value:hover {
+    background-color: #868623;
+}
+
+#mdb {
+    height: 2em;
+    width: 80%; 
+    position: relative;  
+}
+
+#mdb::after {
+    content: '60%';
+    position: absolute;
+    top: -50%;
+    right: 0;
+    font-family: Oswald;
+    color: #f2f2f2;
+}
+
+#mdb::-webkit-meter-optimum-value {
+    background-color: #0066ff;
+}
+
+#mdb::-webkit-meter-optimum-value:hover {
+    background-color: #8cbaff;
+}
+
+#mssql {
+    height: 2em;
+    width: 80%; 
+    position: relative;  
+}
+
+#mssql::after {
+    content: '80%';
+    position: absolute;
+    top: -50%;
+    right: 0;
+    font-family: Oswald;
+    color: #f2f2f2;
+}
+
+#mssql::-webkit-meter-optimum-value {
+    background-color: #cc0000;
+}
+
+#mssql::-webkit-meter-optimum-value:hover {
+    background-color: #fa7575;
+}
+
+/* frameworks */
+
+#rjs {
+    height: 2em;
+    width: 80%; 
+    position: relative;  
+}
+
+#rjs::after {
+    content: '60%';
+    position: absolute;
+    top: -50%;
+    right: 0;
+    font-family: Oswald;
+    color: #f2f2f2;
+}
+
+#rjs::-webkit-meter-optimum-value {
+    background-color: #0066ff;
+}
+
+#rjs::-webkit-meter-optimum-value:hover {
+    background-color: #8cbaff;
+}
+
+#njs {
+    height: 2em;
+    width: 80%; 
+    position: relative;  
+}
+
+#njs::after {
+    content: '70%';
+    position: absolute;
+    top: -50%;
+    right: 0;
+    font-family: Oswald;
+    color: #f2f2f2;
+}
+
+#njs::-webkit-meter-optimum-value {
+    background-color: #ffff00;
+}
+
+#njs::-webkit-meter-optimum-value:hover {
+    background-color: #868623;
+}
+
+#net {
+    height: 2em;
+    width: 80%; 
+    position: relative;  
+}
+
+#net::after {
+    content: '60%';
+    position: absolute;
+    top: -50%;
+    right: 0;
+    font-family: Oswald;
+    color: #f2f2f2;
+}
+
+#net::-webkit-meter-optimum-value {
+    background-color: #cc0000;
+}
+
+#net::-webkit-meter-optimum-value:hover {
+    background-color: #fa7575;
+}
+
+/* software skills */
 
 #vsc {
     height: 2em;
@@ -467,7 +634,7 @@ meter::-webkit-meter-bar {
 }
 
 #vsc::after {
-    content: '80%';
+    content: '85%';
     position: absolute;
     top: -50%;
     right: 0;
@@ -483,13 +650,13 @@ meter::-webkit-meter-bar {
     background-color: #8cbaff;
 }
 
-#cpt {
+#pman {
     height: 2em;
     width: 80%; 
     position: relative;  
 }
 
-#cpt::after {
+#pman::after {
     content: '70%';
     position: absolute;
     top: -50%;
@@ -498,22 +665,22 @@ meter::-webkit-meter-bar {
     color: #f2f2f2;
 }
 
-#cpt::-webkit-meter-optimum-value {
+#pman::-webkit-meter-optimum-value {
     background-color: #ffff00;
 }
 
-#cpt::-webkit-meter-optimum-value:hover {
+#pman::-webkit-meter-optimum-value:hover {
     background-color: #868623;
 }
 
-#cad {
+#git {
     height: 2em;
     width: 80%; 
     position: relative;  
 }
 
-#cad::after {
-    content: '50%';
+#git::after {
+    content: '80%';
     position: absolute;
     top: -50%;
     right: 0;
@@ -521,12 +688,35 @@ meter::-webkit-meter-bar {
     color: #f2f2f2;
 }
 
-#cad::-webkit-meter-optimum-value {
+#git::-webkit-meter-optimum-value {
     background-color: #cc0000;
 }
 
-#cad::-webkit-meter-optimum-value:hover {
+#git::-webkit-meter-optimum-value:hover {
     background-color: #fa7575;
+}
+
+#fz {
+    height: 2em;
+    width: 80%; 
+    position: relative;  
+}
+
+#fz::after {
+    content: '80%';
+    position: absolute;
+    top: -50%;
+    right: 0;
+    font-family: Oswald;
+    color: #f2f2f2;
+}
+
+#fz::-webkit-meter-optimum-value {
+    background-color: #0066ff;
+}
+
+#fz::-webkit-meter-optimum-value:hover {
+    background-color: #8cbaff;
 }
 
 /* skills design end */
