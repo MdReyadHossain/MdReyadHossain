@@ -1,6 +1,11 @@
 ### It's Me Reyad 👋!
 
 <br>
+
+|  Email: reyadhosen@gmail.com | Website: http://reyad.ezyro.com/   |
+| :------------ | :------------ |
+|  Twitter: https://twitter.com/ReyadSteel | GitHub: https://github.com/MdReyadHossain  |
+|  Address: [Dhaka-1229, Dhaka, Bangladesh](https://goo.gl/maps/FmVuZRXUfsQqAatc6 "Dhaka-1229, Dhaka, Bangladesh") |  Linkedin: https://www.linkedin.com/in/reyad-hossain-ba87871ba/ |
 --------
 <br>
 
@@ -21,13 +26,13 @@
 
 #### My skills looks like
 - 🖥**Front-end:**
-	- **Languages**: `HTML5` `CSS3` `Javascript` `NextJS`
-	- **Frameworks**: ASP .NET MVC • WPF • Bootstrap
+	- **Languages**: `HTML5` `CSS3` `Javascript` `ES6+`
+	- **Frameworks**: ReactJS • NextJS • ASP .NET MVC • Bootstrap
 	- **UI tookits**: Figma • JustinMind • Adobe XD
 - 🗄️ **Back-end:**
-	- **Languages**: `C#` `PHP` `NestJS`
-	- **Frameworks**: ASP .NET WEB API
-	- **Database**: PHPMyAdmin • MSSQL • PostgreSQL
+	- **Languages**: `C#` `PHP`
+	- **Frameworks**: NodeJS • NestJS • ASP .NET WEB API
+	- **Database**: MySQL • MongoDB • MSSQL • PostgreSQL
 - 📜**Languages:** `C++` `Python`
 - 🎡**Software Tools:** Postman • Selenium • Xampp • GitHub
 - **🏗️ Code editors:**
@@ -57,8 +62,3 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdReyadHossain"/>
 </p>
-
-|  Email: reyadhosen@gmail.com | Website: http://reyad.ezyro.com/   |
-| :------------ | :------------ |
-|  Twitter: https://twitter.com/ReyadSteel | GitHub: https://github.com/MdReyadHossain  |
-|  Address: [Dhaka-1229, Dhaka, Bangladesh](https://goo.gl/maps/FmVuZRXUfsQqAatc6 "Dhaka-1229, Dhaka, Bangladesh") |  Linkedin: https://www.linkedin.com/in/reyad-hossain-ba87871ba/ |
