@@ -3,6 +3,10 @@
 :root {
     --yellow: yellow;
     --red: red;
+    --bg: #0B0010;
+    --primary: #66FCF1;
+    --fontPrimary: #eee;
+    --fontSecondary: #1F2833;
 }
 
 * {
@@ -18,7 +22,7 @@
 }
 
 *::selection {
-    background: var(--red);
+    background: var(--primary);
     color: #333;
 }
 
@@ -40,11 +44,11 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-    background: var(--red);
+    background: var(--primary);
 }
 
 body {
-    background: #111;
+    background: var(--bg);
     overflow-x: hidden;
     padding-left: 35rem;
 }
@@ -70,7 +74,7 @@ section {
 }
 
 .btn:hover {
-    background: var(--red);
+    background: var(--primary);
 }
 
 .heading {
@@ -83,14 +87,14 @@ section {
 }
 
 .heading span {
-    color: var(--red);
+    color: var(--primary);
 }
 
 header {
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 1000;
+    z-index: 3;
     height: 100%;
     width: 35rem;
     background: #1a1a1a;
@@ -107,7 +111,7 @@ header .user img {
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1rem;
-    border: .7rem solid var(--red);
+    border: .7rem solid var(--primary);
 }
 
 header .user .name {
@@ -141,7 +145,7 @@ header .navbar ul li a {
 }
 
 header .navbar ul li a:hover {
-    background: var(--red);
+    background: var(--primary);
 }
 
 #menu {
@@ -175,7 +179,7 @@ header .navbar ul li a:hover {
 }
 
 .home h1 span {
-    color: var(--red);
+    color: var(--primary);
 }
 
 .home p {
@@ -200,7 +204,7 @@ header .navbar ul li a:hover {
 
 .about .row .info h3 {
     font-size: 2rem;
-    color: var(--red);
+    color: var(--primary);
     padding: 1rem 0;
     font-weight: normal;
 }
@@ -227,7 +231,7 @@ header .navbar ul li a:hover {
 
 .about .row .counter .box span {
     font-size: 4rem;
-    color: var(--red);
+    color: var(--primary);
 }
 
 .about .row .counter .box h3 {
@@ -282,8 +286,8 @@ header .navbar ul li a:hover {
     line-height: 5rem;
     text-align: center;
     font-size: 2rem;
-    color: #fff;
-    background: var(--red);
+    color: var(--fontSecondary);
+    background: var(--primary);
 }
 
 .portfolio .box-container {
@@ -336,7 +340,7 @@ header .navbar ul li a:hover {
 .contact .row form .box {
     padding: 1.5rem;
     margin: 1rem 0;
-    background: #3333;
+    background: #1a1a1a;
     color: #fff;
     text-transform: none;
     font-size: 1.7rem;
@@ -352,14 +356,18 @@ header .navbar ul li a:hover {
     resize: none;
 }
 
-.contact .row .content .title {
+.contact .content .title {
     text-transform: uppercase;
     color: #fff;
     font-size: 3rem;
     padding-bottom: 2rem;
 }
 
-.contact .row .content .info h3 {
+.contact .content .info {
+    padding: 2rem 4rem;
+}
+
+.contact .content .info h3 {
     display: flex;
     align-items: center;
     font-size: 2rem;
@@ -368,9 +376,19 @@ header .navbar ul li a:hover {
     font-weight: normal;
 }
 
-.contact .row .content .info h3 i {
+.contact .content .info h3 i {
     padding-right: 1rem;
-    color: var(--red);
+    color: var(--primary);
+}
+
+.contact .content .info h3 a {
+    padding-right: 1rem;
+    color: #eee;
+}
+
+.contact .content .info h3 a:hover {
+    padding-right: 1rem;
+    color: var(--primary);
 }
 
 .top {
@@ -379,6 +397,11 @@ header .navbar ul li a:hover {
     right: 2rem;
     z-index: 100;
     display: none;
+}
+
+#scroll-up {
+    font-size: 50px;
+    color: var(--primary);
 }
 
 
