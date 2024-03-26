@@ -8,10 +8,17 @@ function connect()
 
     /* -- x -- */
 
-    $server = "localhost";
-    $db_user = "root";
-    $db_pass = "";
-    $dbname = "reyad";
+    $server = "sql201.infinityfree.com";
+    $db_user = "if0_34957520";
+    $db_pass = "t0ocsDArwSoPQVQ";
+    $dbname = "if0_34957520_reyad";
+
+    /* -- x -- */
+
+    // $server = "localhost";
+    // $db_user = "root";
+    // $db_pass = "";
+    // $dbname = "reyad";
     $reyad = new mysqli($server, $db_user, $db_pass, $dbname);
 
     if ($reyad->connect_error) {
