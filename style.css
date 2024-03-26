@@ -229,6 +229,10 @@ header .navbar ul li a:hover {
     margin: 2rem;
 }
 
+.about .row .counter .box:hover {
+    background-color: var(--primary);
+}
+
 .about .row .counter .box span {
     font-size: 4rem;
     color: var(--primary);
